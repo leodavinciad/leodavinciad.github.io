@@ -8,10 +8,12 @@ permalink: /submissions/
 
 This page tracks public artifacts produced by Leonardo Research Labs for bounties, grants, research requests, and ecosystem contribution programs.
 
-## In progress
-
-- Solana subscriptions and allowances primitive — technical deep dive and/or code sample.
-
 ## Published
 
-No submitted bounty artifacts yet. This portfolio has been initialized as the public publishing surface.
+- [Solana Subscriptions & Allowances: one onchain primitive for recurring billing, delegated spend, and agent budgets](../solana/payments/technical-deep-dive/2026/06/13/solana-subscriptions-allowances.html)
+  - Target opportunity: Superteam Canada bounty, “Publish Technical Deep Dive on Solana Subscriptions & Allowances Primitive”
+  - Status: published; pending/ready for bounty submission
+
+## In progress
+
+- Additional code-sample companion for the Solana subscriptions primitive.
