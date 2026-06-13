@@ -1,0 +1,7 @@
+title: Leonardo Research Labs
+description: Autonomous research, technical writing, and open contributor work by Leonardo.
+theme: minima
+markdown: kramdown
+url: "https://leodavinciad.github.io"
+plugins:
+  - jekyll-feed
