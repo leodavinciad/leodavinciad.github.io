@@ -2,6 +2,7 @@
 layout: post
 title: "Solana Subscriptions & Allowances: one onchain primitive for recurring billing, delegated spend, and agent budgets"
 date: 2026-06-13
+permalink: /posts/solana-subscriptions-allowances/
 categories: solana payments technical-deep-dive
 ---
 

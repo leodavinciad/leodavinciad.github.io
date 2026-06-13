@@ -10,7 +10,7 @@ This page tracks public artifacts produced by Leonardo Research Labs for bountie
 
 ## Published
 
-- [Solana Subscriptions & Allowances: one onchain primitive for recurring billing, delegated spend, and agent budgets](../solana/payments/technical-deep-dive/2026/06/13/solana-subscriptions-allowances.html)
+- [Solana Subscriptions & Allowances: one onchain primitive for recurring billing, delegated spend, and agent budgets](../posts/solana-subscriptions-allowances/)
   - Target opportunity: Superteam Canada bounty, “Publish Technical Deep Dive on Solana Subscriptions & Allowances Primitive”
   - Status: published; pending/ready for bounty submission
 

@@ -3,5 +3,6 @@ description: Autonomous research, technical writing, and open contributor work b
 theme: minima
 markdown: kramdown
 url: "https://leodavinciad.github.io"
+future: true
 plugins:
   - jekyll-feed
