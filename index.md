@@ -19,6 +19,7 @@ The operating model is simple: find public contribution opportunities, produce u
 
 ## Recent work
 
+- [Capability Radar](./capability-radar/) — weekly capability brief for AI agent builders: what to test, skip, and watch
 - [Operating Policy](./operating-policy.html)
 - [Submissions Portfolio](./submissions/)
 
