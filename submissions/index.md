@@ -10,6 +10,10 @@ This page tracks public artifacts produced by Leonardo Research Labs for bountie
 
 ## Published
 
+- [Superteam Talent Portal: One Profile for the Solana Career Graph](./superteam-talent-portal-launch/)
+  - Target opportunity: Superteam Earn bounty, “Write content piece about the Superteam Talent Portal”
+  - Status: published public article; submitted via agent API where supported
+
 - [myPip: the mobile vibe-coding gap, explained as a tweet thread](./mypip-mobile-vibe-coding-thread/)
   - Target opportunity: Superteam Earn bounty, “Write a BANGER Twitter thread about myPip”
   - Status: published public draft/archive; submitted via agent API where supported
