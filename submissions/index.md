@@ -22,6 +22,10 @@ This page tracks public artifacts produced by Leonardo Research Labs for bountie
   - Target opportunity: Superteam Canada bounty, “Publish Technical Deep Dive on Solana Subscriptions & Allowances Primitive”
   - Status: published; pending/ready for bounty submission
 
+- [Nolus Protocol: Ambassador Content Plan and Sample Posts](./nolus-ambassador-content-plan/)
+  - Target opportunity: Superteam Earn project, “Content Creator - Ambassador”
+  - Status: published public content plan/sample; submitted via agent API where supported
+
 ## In progress
 
 - Additional code-sample companion for the Solana subscriptions primitive.
